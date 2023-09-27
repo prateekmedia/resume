@@ -1,19 +1,15 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Google Summer of Code
+  position: Student Contibutor
+  duration: May, 2023  &mdash; Oct, 2023
+  summary: I contributed to CCExtractor, a tool that extracts closed captions from video files, by enhancing its features and performance using C and Rust. Some of the tasks I accomplished were	<ul class="resume-item-list"><li>Rewriting 3000+ lines of C code in Rust, a safer and faster language.</li><li>Improving the continuous integration for Windows and Mac OS platforms.</li><li>Supporting GPAC 2.0, a multimedia framework, and removing 150k lines of unnecessary code.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Datsme
+  position: Flutter Developer Intern
+  duration:  Jul, 2022  &mdash; Jul, 2023
+  summary: As a Flutter developer intern at Datsme, I played a key role in developing the application that helps users find compatible friends based on their personality and preferences. Some of the achievements I made during this internship were <ul class="resume-item-list"><li>Developing the Personality Test and PCV Test modules that assess the user’s social traits and compatibility with others.</li><li>Working on various features that enhance the user experience, such as managing friendship requests, tracking mood changes, maintaining streaks, and more.</li><li>Creating an internal command-line interface tool that automates the process of uploading data from sheets to the Firestore database.</li></ul>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Acsestech
+  position: Linux Developer Intern
+  duration: Feb, 2022  &mdash; May, 2010
+  summary: As a Linux Developer Intern at Acsestech, I was involved in developing and improving the Linux system and its components. Some of the projects I worked on during this internship were <ul class="resume-item-list"><li>Rewriting the existing package manager in Rust, a modern and efficient language, to enhance its performance and reliability.</li><li>Fixing the bugs and issues in the desktop environment code and adding new features and functionalities.</li></ul>
